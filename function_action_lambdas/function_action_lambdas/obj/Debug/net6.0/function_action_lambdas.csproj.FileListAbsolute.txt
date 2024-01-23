@@ -1,0 +1,14 @@
+C:\Users\Wolf Tim\source\repos\function_action_lambdas\function_action_lambdas\bin\Debug\net6.0\function_action_lambdas.exe
+C:\Users\Wolf Tim\source\repos\function_action_lambdas\function_action_lambdas\bin\Debug\net6.0\function_action_lambdas.deps.json
+C:\Users\Wolf Tim\source\repos\function_action_lambdas\function_action_lambdas\bin\Debug\net6.0\function_action_lambdas.runtimeconfig.json
+C:\Users\Wolf Tim\source\repos\function_action_lambdas\function_action_lambdas\bin\Debug\net6.0\function_action_lambdas.dll
+C:\Users\Wolf Tim\source\repos\function_action_lambdas\function_action_lambdas\bin\Debug\net6.0\function_action_lambdas.pdb
+C:\Users\Wolf Tim\source\repos\function_action_lambdas\function_action_lambdas\obj\Debug\net6.0\function_action_lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf Tim\source\repos\function_action_lambdas\function_action_lambdas\obj\Debug\net6.0\function_action_lambdas.AssemblyInfoInputs.cache
+C:\Users\Wolf Tim\source\repos\function_action_lambdas\function_action_lambdas\obj\Debug\net6.0\function_action_lambdas.AssemblyInfo.cs
+C:\Users\Wolf Tim\source\repos\function_action_lambdas\function_action_lambdas\obj\Debug\net6.0\function_action_lambdas.csproj.CoreCompileInputs.cache
+C:\Users\Wolf Tim\source\repos\function_action_lambdas\function_action_lambdas\obj\Debug\net6.0\function_action_lambdas.dll
+C:\Users\Wolf Tim\source\repos\function_action_lambdas\function_action_lambdas\obj\Debug\net6.0\refint\function_action_lambdas.dll
+C:\Users\Wolf Tim\source\repos\function_action_lambdas\function_action_lambdas\obj\Debug\net6.0\function_action_lambdas.pdb
+C:\Users\Wolf Tim\source\repos\function_action_lambdas\function_action_lambdas\obj\Debug\net6.0\function_action_lambdas.genruntimeconfig.cache
+C:\Users\Wolf Tim\source\repos\function_action_lambdas\function_action_lambdas\obj\Debug\net6.0\ref\function_action_lambdas.dll

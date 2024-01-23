@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "function_action_lambdas/1.0.0": {
+        "runtime": {
+          "function_action_lambdas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "function_action_lambdas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
